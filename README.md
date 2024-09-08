@@ -30,6 +30,7 @@ MEDV: Median value of owner-occupied homes in $1000s.
 
 # Dataset Size :
 Number of Instances: 506
+
 Number of Features: 13 (excluding the target variable)
 
 # Usage :
